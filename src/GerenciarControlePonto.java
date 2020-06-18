@@ -23,7 +23,7 @@ public class GerenciarControlePonto {
 
         secretaria1.setTelefone("4444-3333");
 
-        secretaria1.setNome("Roberta");
+        secretaria1.setNome("Jheniffer");
 
 
 
