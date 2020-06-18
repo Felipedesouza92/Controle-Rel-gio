@@ -6,7 +6,6 @@ public class GerenciarControlePonto {
     public static void main(String[] args)throws InterruptedException {
 
 
-
         Gerente gerente1 = new Gerente();
 
         gerente1.setLogin(" gerente1");
@@ -31,7 +30,7 @@ public class GerenciarControlePonto {
 
         operador1.setValorHora(7.00);
 
-        operador1.setNome(" Joao");
+        operador1.setNome(" Jose");
 
 
 
@@ -58,8 +57,6 @@ public class GerenciarControlePonto {
         registro2.setHoraEntrada(LocalDateTime.of(2020,06,18,07,34,21));
 
         registro2.apresentarRegistroPonto();
-
-
 
 
 
